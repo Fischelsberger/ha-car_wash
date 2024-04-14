@@ -21,7 +21,7 @@ from homeassistant.components.weather import (
 # Base component constants
 NAME: Final = "Car Wash"
 DOMAIN: Final = "car_wash"
-VERSION: Final = "1.6.0"
+VERSION: Final = "1.6.1"
 ISSUE_URL: Final = "https://github.com/Fischelsberger/ha-car_wash/issues"
 
 STARTUP_MESSAGE: Final = f"""
