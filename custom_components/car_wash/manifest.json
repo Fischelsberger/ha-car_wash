@@ -1,7 +1,7 @@
 {
     "domain": "car_wash",
     "name": "Car Wash",
-    "version": "1.5.5",
+    "version": "1.6.0",
     "documentation": "https://github.com/Limych/ha-car_wash",
     "issue_tracker": "https://github.com/Limych/ha-car_wash/issues",
     "dependencies": [
@@ -9,7 +9,8 @@
     ],
     "config_flow": false,
     "codeowners": [
-        "@Limych"
+        "@Limych",
+        "@Fischelsberger"
     ],
     "requirements": [],
     "iot_class": "calculated"

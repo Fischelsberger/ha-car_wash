@@ -1,5 +1,5 @@
 {
-    "name": "Car Wash",
+    "name": "Car Wash - fixed",
     "hacs": "1.6.0",
-    "homeassistant": "2022.10.0"
+    "homeassistant": "2024.4.2"
 }
