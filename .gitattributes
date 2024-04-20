@@ -9,4 +9,4 @@
 /tests          export-ignore
 README.md       export-ignore
 setup.cfg       export-ignore
-pylintrc        export-ignore
+#pylintrc        export-ignore
